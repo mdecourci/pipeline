@@ -1,0 +1,14 @@
+*.class
+.classpath
+.project
+*.iml
+.settings/
+.idea/
+target/
+
+# Ignore OS generated files #
+.DS_Store
+.DS_Store?
+
+# Package Files #
+*.jar
